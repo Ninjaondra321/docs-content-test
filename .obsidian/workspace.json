@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "c20fc7c6169f8c56",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a0f61456942c4d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a352aa03caf040ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Principy/01_Page layout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d696460abe5c0a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bef36e14e362278b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b72d965604406b3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc6ada2188997d51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab926cc673b17637",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfd4dfc526225ede",
+    "type": "split",
+    "children": [
+      {
+        "id": "e51ec286343ff801",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c27e0c668bf53868",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_Principy/01_Page layout.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27b00e4c4bfeecf0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_Principy/01_Page layout.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c2fd6bc9c4454ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f340782292968248",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_Principy/01_Page layout.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otevřít rychlé přepínání": false,
+      "graph:Otevřít graf": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Otevřít dnešní poznámku": false,
+      "templates:Vložit šablonu": false,
+      "command-palette:Otevřít paletu příkazů": false
+    }
+  },
+  "active": "c27e0c668bf53868",
+  "lastOpenFiles": [
+    "03_Components/Leaders.md",
+    "03_Components/Tables.md",
+    "03_Components/Accordeon.md",
+    "03_Components/Badges.md",
+    "03_Components/Buttons.md",
+    "03_Components/Cards.md",
+    "03_Components/Carousels.md",
+    "03_Components/Dropdown.md",
+    "03_Components/Horizontal ruler.md",
+    "03_Components/Chips.md",
+    "03_Components/Klávesy.md",
+    "03_Components/Tiles.md",
+    "03_Components/Vstupy.md",
+    "03_Components/Text.md",
+    "03_Components/Toolbar.md",
+    "01_Introduction/Stáhnutí.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "01_Introduction/Tvorba designu.md",
+    "2023-05-22.md",
+    "02_Principy/04_Responsiveness.md",
+    "02_Principy/03_Background.md",
+    "02_Principy/02_Containers.md",
+    "02_Principy/01_Page layout.md",
+    "01_Introduction/What is BEŠAMEL.md",
+    "Untitled.md",
+    "What.md",
+    "03_Components",
+    "02_Principy",
+    "01_Introduction"
+  ]
+}
