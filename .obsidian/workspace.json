@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Principy/01_Page layout.md",
+                "file": "03_Components/Vstupy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Principy/01_Page layout.md",
+                "file": "03_Components/Vstupy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Principy/01_Page layout.md",
+                "file": "03_Components/Vstupy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Principy/01_Page layout.md"
+                "file": "03_Components/Vstupy.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,35 +147,36 @@
       "command-palette:Otevřít paletu příkazů": false
     }
   },
-  "active": "c27e0c668bf53868",
+  "active": "b72d965604406b3e",
   "lastOpenFiles": [
-    "03_Components/Leaders.md",
-    "03_Components/Tables.md",
-    "03_Components/Accordeon.md",
-    "03_Components/Badges.md",
-    "03_Components/Buttons.md",
-    "03_Components/Cards.md",
-    "03_Components/Carousels.md",
-    "03_Components/Dropdown.md",
-    "03_Components/Horizontal ruler.md",
-    "03_Components/Chips.md",
-    "03_Components/Klávesy.md",
-    "03_Components/Tiles.md",
-    "03_Components/Vstupy.md",
-    "03_Components/Text.md",
     "03_Components/Toolbar.md",
+    "03_Components/Tiles.md",
+    "03_Components/Text.md",
+    "03_Components/Tables.md",
+    "03_Components/Navbar.md",
+    "03_Components/Leaders.md",
+    "03_Components/Klávesy.md",
+    "03_Components/Chips.md",
+    "03_Components/Horizontal ruler.md",
+    "03_Components/Dropdown.md",
+    "03_Components/Carousels.md",
+    "03_Components/Badges.md",
+    "03_Components/Accordeon.md",
+    "03_Components/Cards.md",
+    "03_Components/Buttons.md",
+    "02_Principy/01_Page layout.md",
+    "02_Principy/04_Responsiveness.md",
+    "02_Principy/04_Design.md",
+    "02_Principy/03_Background.md",
+    "02_Principy/02_Containers.md",
+    "Untitled.md",
+    "03_Components/Vstupy.md",
     "01_Introduction/Stáhnutí.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "01_Introduction/Tvorba designu.md",
     "2023-05-22.md",
-    "02_Principy/04_Responsiveness.md",
-    "02_Principy/03_Background.md",
-    "02_Principy/02_Containers.md",
-    "02_Principy/01_Page layout.md",
     "01_Introduction/What is BEŠAMEL.md",
-    "Untitled.md",
-    "What.md",
     "03_Components",
     "02_Principy",
     "01_Introduction"

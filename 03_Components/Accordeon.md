@@ -16,25 +16,30 @@
 </div>
 ```
 
+## Functionality
+The default state is opened and if you put .closed to the accordion-item, it closes. You can put .opened to the opened item, but it's only for clarity.
+If you're not using some jsx component and pteffer onclick, than there's an event you can put to every accordion-heading:
+``` html
+<button className="accordion-header"
+onTouch={(e) => { e.target.parentElement.classList.toggle("closed"); }}
+onClick={(e) => { e.target.parentElement.classList.toggle("closed"); }}
+>Heading title</button>
+```
+
+
 ## Options
+
 
 
 
 ## Design guidelines
 ``` css
 .accordion-nice .accordion-item {
-    margin: 5px;
-    border: solid 1px var(--primary-color-static);
-    /* Nevím proč to tak je, ale nech to tu! */
-    border-radius: calc(var(--border-radius-components)* 1.2);
+    
 }
 
   .accordion-nice .accordion-header {
-    background: var(--primary-color) !important;
-    color: var(--font-color-light);
-    padding: 10px;
-    border-radius: var(--border-radius-components);
-    transition: all 0.2s ease-in-out;
+	  
 }
 ```
 

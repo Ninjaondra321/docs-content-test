@@ -10,11 +10,37 @@ Na kartách není doslova nic složitého. Prostě div.card
 </div>
 ````
 ## Options
+In default BESAMEL cards levitate on hover. You can also add .primary .secondary or .tertiary .
 
 
 ## Design guidelines
 ``` css
+.card {
 
+}
+  
+.card:hover {
+
+}
+  
+.card.primary:hover,
+.card.secondary:hover,
+.card.terciary:hover {
+
+}
+  
+
+.card.primary {
+  
+}
+  
+.card.secondary {
+
+}
+  
+.card.terciary {
+
+}
 ```
 
 ## Part from BEŠAMEL

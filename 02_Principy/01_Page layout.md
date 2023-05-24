@@ -39,3 +39,13 @@ Základní rozpoložení stránky vypadá takto:
 </html>
 ```
 
+## Sections
+TODO: add some text about how sections work!
+
+## Page components
+Fing more in these links:
+* Navbar
+* Banner
+* Toolbar
+
+
