@@ -44,8 +44,8 @@ TODO: add some text about how sections work!
 
 ## Page components
 Fing more in these links:
-* Navbar
-* Banner
-* Toolbar
+* Navbar TODO: LInk the navbar page
+* Banner TODO: Link the banner page
+* Toolbar TODO: Create the toolbar page and link it here!
 
 

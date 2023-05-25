@@ -33,7 +33,7 @@ Používejte s
 
 }
   
-.tile.terciary {
+.tile.tertiary {
 
 }
 ```
