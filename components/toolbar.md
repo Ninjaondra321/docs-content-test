@@ -1,4 +1,5 @@
-Toolbar finds it's use in web apps or somewhere you want toolbar in. 
+# Toolbar
+Toolbar finds it's use in web apps or anywhere else you want toolbar in. 
 ## Structure
 ``` html
 <div class="toolbar">

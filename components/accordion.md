@@ -1,3 +1,26 @@
+# Accordion
+Use accordion for example for faq section in your website. It's very easy to use, just wrap the title in button.accordion-header and the content to .accordion-content.
+``` html sample
+<div class="accordion-nice">
+  <div key="0" class="accordion-item opened" xd="0">
+    <button class="accordion-header "
+    onTouch={(e) => { e.target.parentElement.classList.toggle("closed"); }}
+onClick={(e) => { e.target.parentElement.classList.toggle("closed"); }}
+>Title</button>
+    <div class="accordion-content">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, sequi quaerat. Possimus hic, quaerat ut eos repellat sint minus doloremque beatae fuga mollitia nulla perferendis commodi quibusdam sequi? Saepe, est!</div>
+  </div>
+  <div key="1" class="accordion-item closed" xd="0">
+    <button class="accordion-header " onTouch={(e) => { e.target.parentElement.classList.toggle("closed"); }}
+onClick={(e) => { e.target.parentElement.classList.toggle("closed"); }} >Title 02</button>
+    <div class="accordion-content">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, sequi quaerat. Possimus hic, quaerat ut eos repellat sint minus doloremque beatae fuga mollitia nulla perferendis commodi quibusdam sequi?
+      Saepe, est!
+    </div>
+  </div>
+</div>
+```
+
 ## Structure
 ``` html
 <div class="accordion-nice">
@@ -26,12 +49,8 @@ onClick={(e) => { e.target.parentElement.classList.toggle("closed"); }}
 >Heading title</button>
 ```
 
-
 ## Options
-
-
-
-
+You can make your accordion with just one element opened (example in jsx component code bellow)
 ## Design guidelines
 ``` css
 .accordion-nice .accordion-item {

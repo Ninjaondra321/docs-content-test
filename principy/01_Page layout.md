@@ -1,3 +1,4 @@
+# Page layout
 obr (viz figma)
 Základní rozpoložení stránky vypadá takto:
 ``` html

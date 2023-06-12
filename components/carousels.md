@@ -1,6 +1,7 @@
+# Carousel
 Carousels are nice. What else do you want me to write here!?
 ## Structure
-Once again, there's nothing hard with building carousels. You just wrap your carousel item in .
+Once again, there's nothing hard with building carousels. You just wrap your carousel items in .carousel
 
 The structure is a little bit tricky, because you have to wrap the .carousel into .carousel-parent . This is because of other elements like arrows, that control it's behavior (left and right sliders)
 ``` html
@@ -38,7 +39,28 @@ The structure is a little bit tricky, because you have to wrap the .carousel int
 
 ## Design guidelines
 ``` css
+.carousel-control-l,
+.carousel-control-r {
 
+}
+
+.carousel-parent .left-control:hover .carousel-control-l,
+.carousel-parent .right-control:hover .carousel-control-r {
+
+}
+
+.carousel::-webkit-scrollbar {
+
+}
+
+.carousel::-webkit-scrollbar-thumb {
+
+}
+  
+
+.carousel::-webkit-scrollbar-thumb:hover {
+
+}
 
 ```
 
@@ -102,32 +124,5 @@ export function CarouselWrap({ maximised = false, children }) {
             {children}
         </div>
     </div>);
-}
-```
-
-
-## Part from BEŠAMEL
-``` css
-.carousel-control-l,
-.carousel-control-r {
-
-}
-
-.carousel-parent .left-control:hover .carousel-control-l,
-.carousel-parent .right-control:hover .carousel-control-r {
-
-}
-
-.carousel::-webkit-scrollbar {
-
-}
-
-.carousel::-webkit-scrollbar-thumb {
-
-}
-  
-
-.carousel::-webkit-scrollbar-thumb:hover {
-
 }
 ```

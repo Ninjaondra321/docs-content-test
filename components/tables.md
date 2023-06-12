@@ -1,6 +1,47 @@
-
-TODO: sem dopiš ukázku
-
+# Tables
+Tables are some of the most used components in web pages. In BESAMEL, it's styled
+``` html sample
+<table class="secondary hover centered striped">
+  <thead>
+    <tr>
+      <th>Firstname</th>
+      <th>Lastname</th>
+      <th>Age</th>
+      <th>Action</th>
+      <th>Icon</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bořek</td>
+      <td>Stavitel</td>
+      <td>24</td>
+      <td><button class="btn primary">Click</button></td>
+      <td>
+        <p class="g-icon large">search</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Julča</td>
+      <td>Míchačka</td>
+      <td>25</td>
+      <td><button class="btn primary">Click</button></td>
+      <td>
+        <p class="g-icon large"> phone </p>
+      </td>
+    </tr>
+    <tr>
+      <td>Štěpán</td>
+      <td>Štěpán</td>
+      <td>18</td>
+      <td><button class="btn primary">Click</button></td>
+      <td>
+        <p class="g-icon large"> mail </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+``` 
 ## Structure
 ``` html
 <table class="hover centered striped">
