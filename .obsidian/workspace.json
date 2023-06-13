@@ -4,23 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "230d9fb23389b53a",
+        "id": "ab540dbc192b5b9d",
         "type": "tabs",
         "children": [
           {
-            "id": "0e702cb11bf2248b",
+            "id": "d94337962d95cfc7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "68c5234fd7ee9a28",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "components/leaders.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "components/leaders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "components/leaders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "components/leaders.md"
+              }
             }
           }
         ],
@@ -139,43 +139,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Otevřít rychlé přepínání": false,
-      "graph:Otevřít graf": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Otevřít dnešní poznámku": false,
-      "templates:Vložit šablonu": false,
-      "command-palette:Otevřít paletu příkazů": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "0e702cb11bf2248b",
+  "active": "b72d965604406b3e",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled.canvas",
-    "03_Components/Cards.md",
+    "principy/04_Responsiveness.md",
+    "principy/04_Design.md",
+    "principy/03_Background.md",
+    "principy/02_Containers.md",
+    "principy/01_Page layout.md",
+    "components/toolbar.md",
+    "components/tiles.md",
+    "components/text.md",
+    "components/tables.md",
+    "components/navbar.md",
+    "components/leaders.md",
+    "components/Klávesy.md",
+    "components/inputs.md",
+    "components/Chips.md",
+    "components/horizontal-ruler.md",
+    "components/Dropdown.md",
+    "components/carousels.md",
+    "components/cards.md",
+    "components/buttons.md",
+    "components/banner.md",
+    "components/accordion.md",
+    "components/badges.md",
+    "principy.md",
+    "introduction/tvorba-designu.md",
     "03_Components/Buttons.md",
     "03_Components/Banner.md",
-    "03_Components/Badges.md",
-    "03_Components/Navbar.md",
-    "03_Components/Carousels.md",
-    "03_Components/Dropdown.md",
-    "03_Components/Tables.md",
-    "03_Components/Chips.md",
-    "03_Components/Klávesy.md",
-    "03_Components/Horizontal ruler.md",
-    "03_Components/Text.md",
-    "03_Components/Tiles.md",
-    "03_Components/Toolbar.md",
-    "02_Principy/04_Responsiveness.md",
-    "02_Principy/04_Design.md",
-    "02_Principy/03_Background.md",
-    "02_Principy/02_Containers.md",
-    "02_Principy/01_Page layout.md",
-    "03_Components/Vstupy.md",
-    "ads.md",
-    "03_Components/Accordeon.md",
-    "01_Introduction/Stáhnutí.md",
-    "01_Introduction/Tvorba designu.md",
-    "01_Introduction/What is BEŠAMEL.md",
+    "Untitled.canvas",
     "Untitled 1.canvas",
     "03_Components",
     "02_Principy",

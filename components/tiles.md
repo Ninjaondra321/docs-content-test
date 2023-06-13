@@ -1,4 +1,4 @@
-
+# Tiles
 Tile je kontejner použitelný např. při loginu. Ne použití není nic těžkého. prostě část wrapněte do div.tile 
 tip: pro lepší layouts pouažívejte s .w-_ a .m-w-_  --- odkaz na responsive-layouts
 
@@ -36,9 +36,4 @@ Používejte s
 .tile.tertiary {
 
 }
-```
-
-## Part from BEŠAMEL
-```
-
 ```

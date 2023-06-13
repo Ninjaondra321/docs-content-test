@@ -1,6 +1,5 @@
-
-TODO: sem dopiš ukázku
-
+# Banner
+Banners are used to display text, that sould notify the user of some change. Just put div.banner as a first child of nav (find more in [the layout page](/principles/page-layout))
 ## Structure
 ``` html
 <div class="banner">

@@ -1,4 +1,4 @@
-
+# Inputs
 Vstupy v BEŠAMELu mají pevně daný pořádek. V div.input vložte po pořadí label, input popř. label.sub
 
 ## Structure
@@ -82,10 +82,5 @@ input.editable {
 input.editable:focus {
 
 }
-
-```
-
-## Part from BEŠAMEL
-```
 
 ```

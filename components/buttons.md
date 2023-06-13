@@ -1,8 +1,7 @@
-
-Buttons are one of the first things you learn when learning html, so I assume, you already know this. There's nothing to it.
-
+# Buttons
+Buttons are one of the first things you learn when learning html, so I assume, you already know this. There's nothing to it, just wrap what you want to have inside into button.
 ## Structure
-``` html
+``` html sample code
 <button >Default</button>
 <button class="primary">Primary</button>
 <button class="secondary">Secondary</button>
@@ -12,14 +11,14 @@ Buttons are one of the first things you learn when learning html, so I assume, y
 ## Options
 ### Link button
 You can -of course- use a.btn.primary
-``` html
+``` html sample code
 <a href="#" class="btn primary">Primary</a>
 <a href="#" class="btn secondary">Secondary</a>
 <a href="#" class="btn terciary">Tertiary</a>
 <a href="#" class="btn plain">Plain</a>
 ```
 ### Large buttons
-``` html
+``` html sample code
 <button class="primary "> Hello Word <span class="g-icon">arrow_forward</span></button>
 <button class="secondary">Lorem ipsum <span class="g-icon">arrow_forward</span></button>
 <button class="terciary">Lorem ipsum <span class="g-icon">arrow_forward</span></button>

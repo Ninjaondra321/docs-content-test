@@ -1,9 +1,7 @@
-
-Navbar is crucial element on a page. For more info about the lalyout visit TODO: add link to /principes/page_layout
-
+# Navbar
+Navbar is crucial element on a page. Note, that this page is only for the subitem of the navigation (more in [layout page](principles/layout))
 ## Structure
 ``` html
-
 <div class="navbar ">
   <div class="left">
 	  <a href="/#" class="inactive">
@@ -47,14 +45,4 @@ If you want your navabr to be an island, just add div.navbar.island
 <div class="navbar island">
 	/* navbar */
 </div>
-```
-
-## Design guidelines
-```
-
-```
-
-## Part from BEŠAMEL
-```
-
 ```
