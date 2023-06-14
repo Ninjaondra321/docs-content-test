@@ -1,6 +1,6 @@
-viz [minulý soubor](What is BEŠAMEL) 
+# Download
 
-## (Comppiled) Using CDN 
+## Using CDN (Comppiled) 
 ### Verze tří souborů
 """ code here """
 
