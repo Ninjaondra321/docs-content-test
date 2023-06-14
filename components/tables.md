@@ -112,8 +112,3 @@ table tr {
     border-bottom: /* Add your style here*/;
 }
 ```
-
-## Part from BEŠAMEL
-``` css
-TODO!
-```

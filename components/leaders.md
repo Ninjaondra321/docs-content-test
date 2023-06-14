@@ -15,3 +15,4 @@ There are 3 default styles
 * .leader (dotted)
 * .leader.dashed
 * .leader.solid
+Or you can define your own style

@@ -1,6 +1,5 @@
 # Tiles
-Tile je kontejner použitelný např. při loginu. Ne použití není nic těžkého. prostě část wrapněte do div.tile 
-tip: pro lepší layouts pouažívejte s .w-_ a .m-w-_  --- odkaz na responsive-layouts
+Tile is a sort of container. You can use it for example to wrap a stand alone form or in examples section. Aslo usage is not hard at all - just wrap the content into .tile and you are done!
 
 ## Structure
 ``` html
@@ -14,7 +13,7 @@ tip: pro lepší layouts pouažívejte s .w-_ a .m-w-_  --- odkaz na responsive-
 
 ```
 ## Options
-Používejte s 
+You can use this with those calsses
 * .primary
 * .secondary
 * .tertiary
