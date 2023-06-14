@@ -2,7 +2,6 @@
 Carousels are nice. What else do you want me to write here!?
 ## Structure
 Once again, there's nothing hard with building carousels. You just wrap your carousel items in .carousel
-
 The structure is a little bit tricky, because you have to wrap the .carousel into .carousel-parent . This is because of other elements like arrows, that control it's behavior (left and right sliders)
 ``` html
 

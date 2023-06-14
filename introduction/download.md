@@ -1,12 +1,16 @@
-# Download
+# Installation
 
-## Using CDN (Comppiled) 
-### Verze tří souborů
-""" code here """
+## Using CDN 
+	a) With cd
+``` html
+<!-- BESAMEL-BASE -->
+<link styles TOO:Dodělej!
+	-- Script >
+<!-- BESAMEL-GENERATED  -->
+```
 
-## (Compiled) Downloading and implementing on your own
---- btn - download
-
-## Downloading source fliles (Not compiled)
--- btn download
-
+## Downloading and implementing on your own
+### a) Compiled
+TODO: Place link to my github
+### b) Source code
+TODO: Place link to my github
